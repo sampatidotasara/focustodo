@@ -25,8 +25,6 @@ FocusDo is a modern React-based To-Do application designed to improve productivi
 
 > Add screenshots of your application here.
 
-Example:
-
 
 ├── <img width="1202" height="963" alt="image" src="https://github.com/user-attachments/assets/94073204-e64d-4c1e-9780-32da750b4d50" />
 
