@@ -29,10 +29,14 @@ Example:
 
 ```
 screenshots/
-├── dashboard.png
-├── task-list.png
-├── focus-timer.png
-└── weekly-chart.png
+├── <img width="1202" height="963" alt="image" src="https://github.com/user-attachments/assets/94073204-e64d-4c1e-9780-32da750b4d50" />
+
+├── <img width="1202" height="963" alt="image" src="https://github.com/user-attachments/assets/c7de3b04-e4bf-4764-8931-3643ee22ac44" />
+
+├──<img width="365" height="410" alt="image" src="https://github.com/user-attachments/assets/9d88d282-93fb-4cf4-a69f-d1443dae033a" />
+
+└── <img width="1188" height="628" alt="image" src="https://github.com/user-attachments/assets/dfeddfc4-4edd-4aa6-9635-7f8c5ebf2803" />
+
 ```
 
 ---
